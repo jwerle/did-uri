@@ -1,6 +1,9 @@
 did-uri
 =======
 
+> I **no longer** work on Ara nor maintain https://github.com/AraBlocks/did-uri
+> This fork is the cannonical and maintained repository for `did-uri`
+
 Decentralized Identity (DID) URI parser and formatter.
 
 ## Abstract
