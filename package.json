@@ -15,20 +15,20 @@
     "stringify",
     "format"
   ],
-  "author": "Joseph Werle <werle@littlstar.com>",
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "tape": "^4.9.0"
+    "tape": "^5.5.2"
   },
   "dependencies": {
-    "qs": "^6.5.1"
+    "qs": "6.5.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arablocks/did-uri.git"
+    "url": "git+https://github.com/jwerle/did-uri.git"
   },
   "bugs": {
-    "url": "https://github.com/arablocks/did-uri/issues"
+    "url": "https://github.com/jwerle/did-uri/issues"
   },
-  "homepage": "https://github.com/arablocks/did-uri#readme"
+  "homepage": "https://github.com/jwerle/did-uri#readme"
 }
